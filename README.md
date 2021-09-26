@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isaxstar
-- 👀 I’m interested in Javascript(Vue and Angular), PHP(Laravel and Codeigniter) and CSS(Bootstrap)
+- 👀 I’m interested in Javascript(Vue and Angular), PHP(Laravel) and CSS(Bootstrap)
 - 🌱 I’m currently learning IONIC FRAMEWORK
 - 💞️ I’m looking to collaborate on Vue and Laravel projects
 - 📫 How to reach me by email: isaxstarisaka@gmail.com, website: www.isaxstar.co.tz
