@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋🏼, I'm Isaxstar Isaka</h1>
-<h3 align="center">Develop awesome mobile applications android and iOS with javascript frameworks Vue and Angular</h3>
+<h3 align="center">Develop secured APIs with Laravel and awesome mobile applications both android and iOS with javascript frameworks Vue and Angular</h3>
 
 <br>
 
 - 👀 I’m interested in Javascript(Vue and Angular), PHP(Laravel) and CSS(Bootstrap)
 - 🌱 I’m currently learning IONIC FRAMEWORK
-- 💞️ I’m looking to collaborate on Vue and Laravel projects
+- 💞️ I’m looking to collaborate on Vue, Angular and Laravel projects
 - 📫 How to reach me by email: isaxstarisaka@gmail.com, website: www.isaxstar.co.tz
 - 😄 Pronouns: He/Him
 
@@ -20,12 +20,9 @@
 ![General badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![General badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![General badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![General badge](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![General badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![General badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![General badge](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
-![General badge](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![General badge](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![General badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![General badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![General badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
