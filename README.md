@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋🏼, I'm Isaxstar Isaka</h1>
-<h3 align="center">Develop secured APIs with Laravel and awesome mobile applications both android and iOS with javascript frameworks Vue and Angular</h3>
+<h3 align="center">Develop USSD, secured APIs and awesome Mobile applications both Android and iOS</h3>
 
 <br>
 
-- 👀 I’m interested in Javascript(Vue and Angular), PHP(Laravel) and CSS(Bootstrap)
-- 🌱 I’m currently learning IONIC FRAMEWORK
+- 👀 I’m interested in Javascript(Vue and Angular), Kotlin(Spring Boot), PHP(Laravel) and CSS(Bootstrap)
+- 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on Vue, Angular and Laravel projects
 - 📫 How to reach me by email: isaxstarisaka@gmail.com, website: www.isaxstar.co.tz
 - 😄 Pronouns: He/Him
@@ -12,6 +12,8 @@
 <br>
 
 ## Languages and Tools
+![General badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![General badge](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![General badge](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![General badge](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white)
 ![General badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
