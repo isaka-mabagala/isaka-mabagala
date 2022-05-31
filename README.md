@@ -32,6 +32,15 @@
 
 <br>
 
+## Awards
+<p float="left">
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-0663a619-1906-4fe8-9fc6-fd157313e3a9.jpg" width="300" alt="award udemy" />
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-1005ab22-4a0e-4202-867b-909534856675.jpg" width="300" alt="award udemy" />
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-fde83237-3575-48d4-b4fb-98bf968531cf.jpg" width="300" alt="award udemy" />
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-1bb0e0e1-adb2-492e-90b9-1401b747d9f9.jpg" width="300" alt="award udemy" />
+</p>
+<br>
+
 ## My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isaxstar&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
