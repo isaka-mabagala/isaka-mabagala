@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏼, I'm Isaxstar Isaka</h1>
+<h1 align="center">Hi 👋🏼 <br> I'm Full Stack JavaScript Developer</h1>
 <h3 align="center">Develop secured APIs and awesome Mobile applications both Android and iOS</h3>
 
 <br>
@@ -15,6 +15,7 @@
 ![General badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![General badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![General badge](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![General badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![General badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![General badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![General badge](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
@@ -34,10 +35,11 @@
 
 ## Awards
 <p float="left">
-  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-0663a619-1906-4fe8-9fc6-fd157313e3a9.jpg" width="300" alt="award udemy" />
-  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-1005ab22-4a0e-4202-867b-909534856675.jpg" width="300" alt="award udemy" />
-  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-fde83237-3575-48d4-b4fb-98bf968531cf.jpg" width="300" alt="award udemy" />
-  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-1bb0e0e1-adb2-492e-90b9-1401b747d9f9.jpg" width="300" alt="award udemy" />
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-0663a619-1906-4fe8-9fc6-fd157313e3a9.jpg" width="250" alt="award udemy" />
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-1005ab22-4a0e-4202-867b-909534856675.jpg" width="250" alt="award udemy" />
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-fde83237-3575-48d4-b4fb-98bf968531cf.jpg" width="250" alt="award udemy" />
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-1bb0e0e1-adb2-492e-90b9-1401b747d9f9.jpg" width="250" alt="award udemy" />
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-fc01bb4d-b6bd-4aea-b38d-1af9dcae1ebc.jpg" width="250" alt="award udemy" />
 </p>
 <br>
 
