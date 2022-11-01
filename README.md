@@ -3,7 +3,7 @@
 
 <br>
 
-- 👀 I’m interested in Vue, Angular, Kotlin, Flutter, NodeJS and Java
+- 👀 I’m interested in IONIC, Kotlin, Flutter, NodeJS and Java
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on APIs and Mobile Apps projects
 - 📫 How to reach me by email: isaxstarisaka@gmail.com, website: www.isaxstar.co.tz
@@ -12,6 +12,7 @@
 <br>
 
 ## Languages and Tools
+![General badge](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![General badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![General badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![General badge](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
