@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in Kotlin, Swift, NodeJS and Java
 - 💞️ I’m looking to collaborate on APIs and Mobile Apps projects
-- 📫 How to reach me by email: isaxstarisaka@gmail.com, website: www.isaxstar.co.tz
+- 📫 How to reach me by email: isaxstarisaka@gmail.com, website: www.isaka.co.tz
 - 😄 Pronouns: He/Him
 
 <br>
@@ -36,6 +36,6 @@
 
 ## Contact Me
 [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](MailTo:isaxstarisaka@gmail.com)
-[![General badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/isaxstar)
-[![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaxstar_tz)
-[![General badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.isaxstar.co.tz)
+[![General badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/isakamabagala)
+[![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaka_mabagala)
+[![General badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.isaka.co.tz)
