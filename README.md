@@ -34,6 +34,10 @@
 
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaka-mabagala&layout=compact&langs_count=10&hide=php,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 ## Contact Me
 [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](MailTo:isaxstarisaka@gmail.com)
 [![General badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/isakamabagala)
