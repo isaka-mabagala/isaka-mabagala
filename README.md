@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋🏼 <br> Mobile Apps Developer</h1>
-<h3 align="center">Develop awesome Mobile Applications both Android and iOS</h3>
+<h1 align="center">Hi 👋🏼 <br> Mobile Apps Developer | SEO Expert</h1>
+<h3 align="center">Develop awesome Mobile Applications both Android and iOS with higher rank on search engines results page</h3>
 
 <br>
 
-- 👀 I’m interested in Kotlin, Swift, NodeJS and Java
+- 👀 I’m interested in Kotlin, Swift, NodeJS, Java and SEO
 - 💞️ I’m looking to collaborate on Mobile Apps projects
 - 📫 How to reach me by email: isaxstarisaka@gmail.com, website: www.isaka.co.tz
 - 😄 Pronouns: He/Him
@@ -22,6 +22,8 @@
 ![General badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![General badge](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![General badge](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![General badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+![General badge](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 
 <br>
 
