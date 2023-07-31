@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏼 <br> Mobile Apps Developer | SEO Expert</h1>
-<h3 align="center">Develop awesome Mobile Applications both Android and iOS with higher rank on search engines results page</h3>
+<h3 align="center">Develop awesome Mobile Applications both Android and iOS with higher rank on search engines results page that increase the number of downloads.</h3>
 
 <br>
 
