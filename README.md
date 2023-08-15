@@ -3,7 +3,7 @@
 
 <br>
 
-- 👀 I’m interested in Kotlin, Swift, NodeJS, Java and SEO
+- 👀 I’m interested in Kotlin, Swift, NodeJS, Java, React Native and SEO
 - 💞️ I’m looking to collaborate on Mobile Apps projects
 - 📫 How to reach me by email: isaxstarisaka@gmail.com, website: www.isaka.co.tz
 - 😄 Pronouns: He/Him
@@ -11,6 +11,7 @@
 <br>
 
 ## Languages and Tools
+![General badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![General badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![General badge](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![General badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
