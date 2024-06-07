@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋🏼 <br> Mobile Apps Developer | SEO Expert</h1>
-<h3 align="center">Develop awesome Mobile Applications both Android and iOS with higher rank on search engines results page that increase the number of downloads.</h3>
+<h1 align="center">Hi 👋🏼 <br> Full Stack Mobile Developer</h1>
+<h3 align="center">Develop awesome Mobile Applications both Android and iOS using latest technologies with good UI responsive, user friendly and capable with a number of devices.</h3>
 
 <br>
 
-- 👀 I’m interested in Kotlin, Swift, Java, Flutter and SEO
+- 👀 I’m interested in Jetpack Compose, SwiftUI and Flutter
 - 💞️ I’m looking to collaborate on Mobile Apps projects
 - 📫 How to reach me by email: isaxstarisaka@gmail.com, website: www.isaka.co.tz
 - 😄 Pronouns: He/Him
