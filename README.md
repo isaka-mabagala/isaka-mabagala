@@ -3,7 +3,7 @@
 
 <br>
 
-- 👀 I’m interested in Jetpack Compose, SwiftUI and Flutter
+- 👀 I’m interested in Kotlin Multiplatform and Flutter
 - 💞️ I’m looking to collaborate on Mobile Apps projects
 - 📫 How to reach me by email: isaxstarisaka@gmail.com, website: www.isaka.co.tz
 - 😄 Pronouns: He/Him
