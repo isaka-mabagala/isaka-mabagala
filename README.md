@@ -1,3 +1,5 @@
+![Bottom Up](assets/Bottom-up.svg)
+
 <h1 align="center">Hi 👋🏼 <br> Full Stack Mobile Developer</h1>
 <h3 align="center">Develop awesome Mobile Applications both Android and iOS using latest technologies with good UI responsive, user friendly and capable with a number of devices.</h3>
 
@@ -43,3 +45,5 @@
 [![General badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/isakamabagala)
 [![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaka_mabagala)
 [![General badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.isaka.co.tz)
+
+![Bottom Down](assets/Bottom-down.svg)
