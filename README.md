@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in Kotlin Multiplatform and Flutter
 - 💞️ I’m looking to collaborate on Mobile Apps projects
-- 📫 How to reach me by email: isaxstarisaka@gmail.com, website: www.isaka.co.tz
+- 📫 How to reach me by email: isaxstarisaka@gmail.com, website: www.isaka.me.tz
 - 😄 Pronouns: He/Him
 
 <br>
@@ -42,8 +42,9 @@
 
 ## Contact Me
 [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](MailTo:isaxstarisaka@gmail.com)
-[![General badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/isakamabagala)
+[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaka)
 [![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaka_mabagala)
-[![General badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.isaka.co.tz)
+[![General badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/isakamabagala)
+[![General badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.isaka.me.tz)
 
 ![Bottom Down](assets/Bottom-down.svg)
