@@ -1,14 +1,25 @@
 ![Bottom Up](assets/Bottom-up.svg)
 
-<h1 align="center">Hi 👋🏼 <br> Full Stack Mobile Developer</h1>
-<h3 align="center">Develop awesome Mobile Applications both Android and iOS using latest technologies with good UI responsive, user friendly and capable with a number of devices.</h3>
+<h1 align="center">Hi 👋🏼 <br> Back-End Developer</h1>
+<p align="center">
+  I’m a <b>Backend Developer</b> passionate about building efficient and scalable systems. I work primarily with <b>Ktor</b> and <b>Node.js</b>, designing clean APIs and robust server architectures.
+  My expertise extends to <b>MySQL</b> and <b>MongoDB</b>, where I focus on performance, data integrity, and maintainability. I also apply solid <b>testing</b> practices to ensure reliability and smooth deployments.
+  Always learning, I enjoy exploring new backend technologies and optimizing systems to solve real-world challenges.
+</p>
 
 <br>
 
-- 👀 I’m interested in Kotlin Multiplatform and Flutter
-- 💞️ I’m looking to collaborate on Mobile Apps projects
+- 👀 I’m interested in Kotlin and Javascript
+- 💞️ I’m looking to collaborate on education projects
 - 📫 How to reach me by email: isaxstarisaka@gmail.com, website: www.isaka.me.tz
 - 😄 Pronouns: He/Him
+
+<br>
+
+## Career Growth
+- 2025 - Present → **Backend Developer** (*Ktor and Nodejs*)
+- 2021 - 2025 → **Full Stack Mobile Developer** (*Ionic, Flutter, Nodejs*)
+- 2017 - 2021 → **Full Stack Web Developer** (*Angular, Vue, Codeigniter, Laravel*)
 
 <br>
 
@@ -30,7 +41,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaka-mabagala&layout=compact&langs_count=10&hide=php,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaka-mabagala&layout=compact&langs_count=10&hide=php,html,css,scss,ruby,vue,swift)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
